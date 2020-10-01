@@ -1,3 +1,4 @@
+//Program to find the sum of even numbers and odd numbers form the given range
 #include<stdio.h>
 void main()
 {
